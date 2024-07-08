@@ -1,0 +1,21 @@
+.container-auth {
+	display: flex;
+	min-height: 100vh;
+}
+.leftpath {
+	border-right: 1px solid var(--separator-color);
+	flex: 1;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.group-icon {
+	width: 363px;
+	height: 273px;
+}
+.content {
+	display: flex;
+	flex: 1;
+	justify-content: space-around;
+	align-items: center;
+}

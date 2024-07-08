@@ -1,0 +1,19 @@
+.delivery {
+	max-width: 520px;
+	font-family: 'Open Sans';
+	font-weight: 600;
+}
+.total-price {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.button-checkout {
+	display: flex;
+	margin-top: 20px;
+	justify-content: space-around;
+}
+.button-checkout:hover {
+	transform: translateY(10px);
+	transition: transform 1s;
+}

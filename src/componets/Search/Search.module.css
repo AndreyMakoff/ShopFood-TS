@@ -1,0 +1,22 @@
+.box-search {
+	position: relative;
+}
+.search {
+	width: 256px;
+	height: 51px;
+	font-size: 17px;
+	font-weight: 400;
+	color: var(--text-color);
+	font-style: normal;
+	border: 1px solid #eeeeee;
+	box-shadow: 15px 20px 45px 0px rgba(233, 233, 233, 0.25);
+	border-radius: 10px;
+	padding-left: 40px;
+}
+.icon-search {
+	width: 13.5px;
+	height: 13.5px;
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 20px;
+}
